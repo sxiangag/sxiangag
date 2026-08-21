@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+I am Siqi Xiang, a first-year PhD student at Nanyang Technological University, supervised by [Prof. Shijian Lu](https://personal.ntu.edu.sg/shijian.lu/).
+
+🔬 My current research interests lie in Vision-Language Models, Document Intelligence, and Multimodal Agents.
+
+📫 Feel free to reach me at siqxiang@gmail.com.
+
 <!--
 **sxiangag/sxiangag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
