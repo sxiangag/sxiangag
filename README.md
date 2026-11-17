@@ -2,7 +2,7 @@
 
 I am Siqi Xiang, a first-year PhD student at Nanyang Technological University, supervised by [Prof. Shijian Lu](https://personal.ntu.edu.sg/shijian.lu/).
 
-🔬 My current research interests lie in Vision-Language Models, Document Intelligence, and Multimodal Agents.
+🔬 My current research interests lie in Multimodal Agents, Agent Memory, and Vision-Language Models.
 
 📫 Feel free to reach me at siqxiang@gmail.com.
 
